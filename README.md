@@ -1,1 +1,1 @@
-# SDLC_-_Usecase_diagram_of_Autoapply
+# SDLC_and_Usecase_diagram_of_AutoApply
